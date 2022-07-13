@@ -8,7 +8,7 @@
 </head>
 <body>
     <h1>Didier Alvarez<br>
-        Prueba de Api-Rets
+        Prueba de Api-Rest
     </h1>
 </body>
 </html>
